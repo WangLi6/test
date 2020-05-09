@@ -37,3 +37,4 @@ b=input("请输入：")
 print("长度和为：",len(a+b))
 
 print("我好像明白了，哈哈哈哈，好开心啊")
+print("ok")
